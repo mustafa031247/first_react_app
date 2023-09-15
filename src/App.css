@@ -1,0 +1,42 @@
+.heading_1{
+  justify-content: center;
+  text-decoration-line: underline;
+  text-align: center;
+  text-transform:uppercase;
+  color: white;
+  text-decoration-color: rgb(136, 81, 81);
+}
+.button_changer{
+  border-width: 10px;
+  margin-left: 600px;
+  justify-content: center;
+  text-align: center;
+  background-color: indigo;
+  color: white;
+  border-radius: 10px;
+}
+.border_1{
+  margin-top: 210px;
+  margin-left: 160px;
+  background-color: white;
+  border-radius: 20px;
+
+  height: 35px;
+  width: 1000px; 
+
+}
+.borders{
+  justify-content: center;
+  text-align: center;
+  color: white;
+  width: 120px;
+  height: 29px;
+  border-radius: 20px;
+  margin-top: 2px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 10px; 
+}
+
+
+
